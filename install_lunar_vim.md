@@ -31,3 +31,5 @@ Lunar Vim will likely look like crap when used with a macOS's default Terminal. 
 ```
 brew install --cask iterm2
 ```
+
+Modifying your Terminal profile (e.g. font) will then modify the appearance of Lunar Vim.
