@@ -1,4 +1,4 @@
-# Install Lunar Vim
+# Install LunarVim
 The following steps were tested on macOS 15.6.1.
 
 Firstly, install all the following packages with brew:
@@ -17,19 +17,19 @@ Then install Cargo:
 curl https://sh.rustup.rs -sSf | sh
 ```
 
-Finally, install Lunar Vim:
+Finally, install LunarVim:
 ```
 bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
 ```
 
 The installer will ask you if you want to install various programming language dependencies. Press `y` for the ones you want, presumably NodeJS and Python.
 
-You can now use Lunar Vim with `lvim`.
+You can now use LunarVim with `lvim`.
 
 # Install iTerm
-Lunar Vim will likely look like crap when used with macOS's default Terminal. Therefore, install iTerm:
+LunarVim will likely look like crap when used with macOS's default Terminal. Therefore, install iTerm:
 ```
 brew install --cask iterm2
 ```
 
-Modifying your Terminal profile (e.g. font) will then modify the appearance of Lunar Vim.
+Modifying your Terminal profile (e.g. font) will then modify the appearance of LunarVim.
