@@ -33,3 +33,11 @@ brew install --cask iterm2
 ```
 
 Modifying your terminal profile (e.g. font) will then modify the appearance of LunarVim.
+
+# Add font
+SF Mono is a good font that ships with macOS's Terminal. To install it on the system so that iTerm can use it:
+1) In Finder, navigate to Applications -> Utilities
+2) Right click on Terminal and select Show Package Contents
+3) Navigate to Contents -> Resources -> Fonts
+4) Double click on the font you want and select Install
+5) You will now be able to use the font in iTerm
