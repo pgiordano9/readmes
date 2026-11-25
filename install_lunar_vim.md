@@ -22,8 +22,12 @@ Finally, install Lunar Vim:
 bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
 ```
 
- The installer will ask you if you want to install various programming language dependencies. Press `y` for the ones you want, presumably NodeJS and Python.
+The installer will ask you if you want to install various programming language dependencies. Press `y` for the ones you want, presumably NodeJS and Python.
 
- You can now use Lunar Vim with `lvim`.
+You can now use Lunar Vim with `lvim`.
 
- # Install iTerm
+# Install iTerm
+Lunar Vim will likely look like crap when used with a macOS's default Terminal. Therefore, install iTerm:
+```
+brew install --cask iterm2
+```
