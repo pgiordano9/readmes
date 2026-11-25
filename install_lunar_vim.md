@@ -32,4 +32,4 @@ LunarVim will likely look like crap when used with macOS's default Terminal. The
 brew install --cask iterm2
 ```
 
-Modifying your Terminal profile (e.g. font) will then modify the appearance of LunarVim.
+Modifying your terminal profile (e.g. font) will then modify the appearance of LunarVim.
