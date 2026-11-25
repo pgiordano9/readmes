@@ -1,3 +1,4 @@
+# Install Lunar Vim
 The following steps were tested on macOS 15.6.1.
 
 Firstly, install all the following packages with brew:
@@ -21,3 +22,6 @@ Finally, install Lunar Vim:
 bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
 ```
 
+ The installer will ask you if you want to install various programming language dependencies. Press y for the ones you want, presumably NodeJS and Python.
+
+ 
