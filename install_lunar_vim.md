@@ -27,7 +27,7 @@ The installer will ask you if you want to install various programming language d
 You can now use Lunar Vim with `lvim`.
 
 # Install iTerm
-Lunar Vim will likely look like crap when used with a macOS's default Terminal. Therefore, install iTerm:
+Lunar Vim will likely look like crap when used with macOS's default Terminal. Therefore, install iTerm:
 ```
 brew install --cask iterm2
 ```
