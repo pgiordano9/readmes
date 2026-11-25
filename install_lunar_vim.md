@@ -9,4 +9,15 @@ brew install neovim
 brew install lua
 ```
 
-Obviously, check to see if they are installed first e.g. by calling `git`.
+(Obviously, check to see if they are installed first e.g. by calling `git`.)
+
+Then install Cargo:
+```
+curl https://sh.rustup.rs -sSf | sh
+```
+
+Finally, install Lunar Vim:
+```
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+```
+
